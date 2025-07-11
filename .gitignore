@@ -24,6 +24,7 @@ target
 # Added by cargo
 
 /target
+/external/libs
 
 
 # Added by cargo
